@@ -14,6 +14,7 @@ Grab the latest static binary from the [**Releases**](../../releases/latest) pag
 
 - `app-agent-linux-amd64` — Linux x86-64
 - `app-agent-linux-arm64` — Linux ARM64
+- `app-agent-linux-armv7` — Linux ARM 32-bit (armv7)
 
 They are statically linked (no dependencies). Make it executable and run it:
 
